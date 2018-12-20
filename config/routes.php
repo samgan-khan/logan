@@ -5,8 +5,9 @@ use Cake\Routing\Route\DashedRoute;
 
 Router::plugin(
     'Logan',
-    ['path' => '/logan'],
+    ['path' => '/log'],
     function (RouteBuilder $routes) {
+        $routes->connect('/', ['controller' => 'logs', 'action' => 'index']);
         $routes->fallbacks(DashedRoute::class);
     }
 );
