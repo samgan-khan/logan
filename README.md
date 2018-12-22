@@ -10,12 +10,6 @@ The recommended way to install composer packages is:
 composer require samgan-khan/logan
 ```
 
-Add the followig line to your config/bootstrap.php
-
-```
-Plugin::load('Logan', ['bootstrap' => true, 'routes' => true]);
-```
-
 ## Pre - Requirements
 
 Before using this plugin all you have to do is change you log file status to daily.
