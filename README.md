@@ -19,11 +19,8 @@ This can be done a few simple steps, you can follow the [steps here](https://cod
 
 ## Screenshots
 
-![alt home-logan] (https://codebysamgan.com/wp-content/uploads/2018/12/home-logViewer.png)
+![alt home-logan](https://codebysamgan.com/wp-content/uploads/2018/12/home-logViewer.png)
 
-![alt date-view-logan] (https://codebysamgan.com/wp-content/uploads/2018/12/date-logView.png)
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
+![alt date-view-logan](https://codebysamgan.com/wp-content/uploads/2018/12/date-logView.png)
